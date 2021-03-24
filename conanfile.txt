@@ -1,0 +1,12 @@
+[requires]
+glew/2.1.0@bincrafters/stable
+glfw/3.3.3
+glm/0.9.9.8
+stb/20200203
+imgui/1.81
+fmt/7.1.3
+Assimp/4.1.0@jacmoe/stable
+
+[generators]
+# cmake_find_package_multi
+cmake_find_package
